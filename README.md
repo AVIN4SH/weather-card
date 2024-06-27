@@ -1,8 +1,6 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h1>🚀 Created a Basic React App with These Features:</h1>
+<h2>🌦️ Created a Simple App that displays Weather</h2>
+<h2>🔍 Displays Weather When City Name is Searched</h1>
+<h2>❌ Handles Invalid Inputs and Inappropriate Behavior with Conditional Rendering</h1>
+<h2>🎨 Designed Using Tailwind CSS and Daisy UI</h1>
+<h1>🟢 Live at: https://weather-card-react01.netlify.app/</h1>
